@@ -70,18 +70,6 @@ let reset = function(){
 
 //Atualizar canvas
 let update = function(modifier){
-    /*if (38 in keys_down) { // Player holding up
-		hero.y -= hero.speed * modifier;
-	}
-	if (40 in keys_down) { // Player holding down
-		hero.y += hero.speed * modifier;
-	}
-	if (37 in keys_down) { // Player holding left
-		hero.x -= hero.speed * modifier;
-	}
-	if (39 in keys_down) { // Player holding right
-		hero.x += hero.speed * modifier;
-	}*/
 
     if (keys_down.hasOwnProperty('ArrowUp')) { // Player holding up
 		hero.y -= hero.speed * modifier;

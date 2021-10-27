@@ -2,4 +2,6 @@
 
 Aprendendo o basico do uso canvas.<br>
 
+![exemplo]()
+
 Feito seguindo o tutorial: http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
